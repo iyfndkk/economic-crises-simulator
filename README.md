@@ -4,7 +4,7 @@ An interactive Windows desktop application built to simulate core macroeconomic 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 * **Macroeconomic Simulation:** Features 20+ university curriculum-aligned crisis scenarios including **Stagflation, Liquidity Traps, and the Marshall-Lerner Condition**.
 
@@ -14,7 +14,7 @@ An interactive Windows desktop application built to simulate core macroeconomic 
 
 ---
 
-## 🛠️ Technology Stack & Architecture
+##  Technology Stack & Architecture
 
 * **Backend Core:** Engineered with **Python & Flask API** to manage dynamic simulations and algorithmic state updates.
 
