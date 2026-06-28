@@ -3,8 +3,11 @@ Economic Crises Simulator (Desktop Application)
 An interactive Windows desktop application built to simulate core macroeconomic anomalies, policy adjustments, and historical financial crises.
 
  -Project Overview-
-**Macroeconomic Simulation:** Features 20+ university curriculum-aligned crisis scenarios including **Stagflation, Liquidity Traps, and the Marshall-Lerner Condition**.
-**Dynamic Algorithmic Engine:** Translates live user monetary and fiscal inputs into real-time parameter shifts across core indicators (GDP Growth, CPI Inflation, and Unemployment).
+**Macroeconomic Simulation:** Features 20+ university curriculum-aligned crisis scenarios including 
+**Stagflation, Liquidity Traps, and the Marshall-Lerner Condition**.
+
+**Dynamic Algorithmic Engine:** Translates live user monetary and fiscal inputs into real-time parameter 
+shifts across core indicators (GDP Growth, CPI Inflation, and Unemployment).
  **Dual-Language Architecture:** Fully localized with smooth, independent toggles for English and Turkish interfaces.
 
  -Technology Stack & Architecture-
